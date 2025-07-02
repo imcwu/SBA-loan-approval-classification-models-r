@@ -3,11 +3,12 @@ In this project, I designed 3 classification models to predict whether U.S. Smal
 
 ## Excel Dataset File Preview and Variable Interpretation
 
-## Dataset Preview
+### Dataset Preview
 ![SBA Loan Applications Dataset Preview](./SBALoanExcelDatasetPreview.png)
 
-## Dataset Variable Interpretation
+### Dataset Variable Interpretation
 ![SBA Loan Applications Dataset Variables](./SBALoanDatasetVariableInterpretation.png)
+
 ## 📘 R script
 You can view the R-script file here:
 
