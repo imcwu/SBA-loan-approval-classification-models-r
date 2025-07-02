@@ -8,3 +8,12 @@ You can view the R-script file here:
 
 ## 📊 Classification Model Results: Output
 
+### 🎯 Model 1 Output
+![Model 1 Output](Model1Output.png)
+
+### 🎯 Model 2 Output
+![Model 2 Output](Model2Output.png)
+
+### 🎯 Model 3 Output
+![Model 3 Output](Model3Output.png)
+
