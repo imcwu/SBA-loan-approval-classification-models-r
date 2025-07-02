@@ -4,7 +4,7 @@ In this project, I designed 3 classification models to predict whether U.S. Smal
 ## 📘 R script
 You can view the R-script file here:
 
-![R-script file](SBALoanApprovalProjectScript.R)
+![R-script file](./SBALoanApprovalProjectScript.R)
 
 ## 📊 Classification Model Results: Output
 
